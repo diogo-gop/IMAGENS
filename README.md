@@ -1,2 +1,2 @@
 # IMAGENS
-Deposito de imagens
+Depósito de imagens
